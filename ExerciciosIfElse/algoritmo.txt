@@ -1,0 +1,29 @@
+Exercicio 1 -Algoritimo
+ 1. ler a primeira variável(valor1)
+ 2. ler a segunda variável(valor2)
+ 3. se valor1>valor2 - então{
+    Escreva(o valor1 é maior)
+    } senão{
+        Escreva (o valor2 é maior)
+    } 
+
+Exercicio 2
+1.informar o ano de nascimento;
+2.idade=ano atual-ano de nascimento;
+3.se a idade>=16 entao{
+    mostre que voce pode votar;
+    
+} senão{
+ Escreva(que não pode votar)
+}
+
+Exercicio3
+1. validade de uma senha(válida com os numeros 1234)
+2. se os numeros for 1234-então{
+    Escreva(acesso permitido)
+} senão{
+    Escreva(acesso negado)
+}
+
+Exercicio4
+

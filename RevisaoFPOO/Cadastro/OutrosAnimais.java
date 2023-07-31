@@ -1,5 +1,5 @@
 package Cadastro;
 
-public class OutrosAnimais {
-    
+public class OutrosAnimais extends Animais {
+
 }
